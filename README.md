@@ -19,8 +19,11 @@ seaborn
 matplotlib
 
 ## Files
-/code==코드 정리(전처리, 시각화, 모델링)
-/fastapi==웹 서비스
+./code==코드 정리(전처리, 시각화, 모델링)
+
+./fastapi==웹 서비스
+
+SUM_Project_presentation.pdf==프로젝트 
 
 ## Service
 https://seoyoonjoannechang.github.io/
